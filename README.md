@@ -1,6 +1,6 @@
 # Sajjad Rabby
 
-**AI Systems Architect · Project & Operations Lead** at Symcora
+**AI Systems Architect · Project & Operations Lead**
 
 I build production Python systems for the parts of AI that break under real
 load: model governance, drift monitoring, agent safety, and retrieval. I care
@@ -79,7 +79,7 @@ and the audit log records what was attempted - not just what succeeded.
 ## Current focus
 
 - AI systems architecture and operational reliability for production LLM workloads
-- Project and operations leadership at **Symcora** ([symcora.com](https://symcora.com/))
+- Project and operations leadership
 - Building evaluation and governance into AI delivery pipelines early, not at audit time
 
 ---
@@ -87,7 +87,8 @@ and the audit log records what was attempted - not just what succeeded.
 ## Contact
 
 - GitHub: [@sajjad-rabby](https://github.com/sajjad-rabby)
-- Location: Malaysia
+- Personal site: [symcora.com](https://symcora.com/)
+- Location: Bangladesh
 
 *Every project above is MIT licensed and maintained by me - pull requests and
 issues are welcome.*
