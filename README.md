@@ -1,6 +1,12 @@
-# Sajjad Rabby
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3A,50:1E4FD8,100:06B6D4&height=200&section=header&text=Sajjad%20Rabby&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=AI%20Systems%20Architect%20%C2%B7%20Project%20%26%20Operations%20Lead&descSize=20&descAlignY=70" width="100%" alt="Sajjad Rabby — AI Systems Architect" />
+</div>
 
-**AI Systems Architect · Project & Operations Lead**
+<div align="center">
+  <a href="https://github.com/sajjad-rabby">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&lines=AI+Systems+Architect;Project+%26+Operations+Lead;Stdlib-first+Python+for+production+LLM+systems;Governance+%C2%B7+Drift+monitoring+%C2%B7+Agent+guardrails+%C2%B7+RAG" alt="AI Systems Architect · Project & Operations Lead" />
+  </a>
+</div>
 
 I build production Python systems for the parts of AI that break under real
 load: model governance, drift monitoring, agent safety, and retrieval. I care
@@ -9,7 +15,7 @@ usually means **zero mandatory dependencies** and **tests that run offline**.
 
 ---
 
-## Selected work
+## Featured work
 
 Five complete, MIT-licensed Python libraries. Every one is stdlib-only at
 runtime, fully type-hinted, documented, and ships with an offline test suite.
@@ -27,6 +33,49 @@ runtime, fully type-hinted, documented, and ships with an offline test suite.
 Also: **[vet-checkin](https://github.com/sajjad-rabby/vet-checkin)** - a
 multi-tenant veterinary clinic app on Next.js 15 / React 19 / TypeScript with
 a typed Supabase data layer.
+
+---
+
+## Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React 19](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+![Tests](https://img.shields.io/badge/tests-783_passing-2EA043?style=for-the-badge)
+![Runtime dependencies](https://img.shields.io/badge/runtime_dependencies-0-2EA043?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-2EA043?style=for-the-badge)
+
+</div>
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sajjad-rabby&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sajjad-rabby&show_icons=true&hide_border=true&theme=default&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sajjad-rabby&show_icons=true&hide_border=true" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad-rabby&layout=compact&hide_border=true&theme=dark&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad-rabby&layout=compact&hide_border=true&theme=default&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad-rabby&layout=compact&hide_border=true" alt="Top languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sajjad-rabby&hide_border=true&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sajjad-rabby&hide_border=true&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=sajjad-rabby&hide_border=true" alt="GitHub streak" />
+  </picture>
+</p>
 
 ---
 
@@ -86,9 +135,15 @@ and the audit log records what was attempted - not just what succeeded.
 
 ## Contact
 
-- GitHub: [@sajjad-rabby](https://github.com/sajjad-rabby)
-- Personal site: [symcora.com](https://symcora.com/)
-- Location: Bangladesh
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-sajjad.sunyaad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajjad.sunyaad@gmail.com)
+[![Website](https://img.shields.io/badge/Website-symcora.com-1E4FD8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://symcora.com/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--4410--8728-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-4410-8728)
+
+</div>
+
+Open to new roles in AI systems architecture and LLM engineering.
 
 *Every project above is MIT licensed and maintained by me - pull requests and
 issues are welcome.*
