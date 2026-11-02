@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3A,50:1E4FD8,100:06B6D4&height=200&section=header&text=Sajjad%20Rabby&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=AI%20Systems%20Architect%20%C2%B7%20Project%20%26%20Operations%20Lead&descSize=20&descAlignY=70" width="100%" alt="Sajjad Rabby — AI Systems Architect" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3A,50:1E4FD8,100:06B6D4&height=200&section=header&text=Sajjad%20Rabby&fontSize=56&fontColor=ffffff" width="100%" alt="Sajjad Rabby — AI Systems Architect" />
 </div>
 
 <div align="center">
@@ -51,31 +51,6 @@ a typed Supabase data layer.
 ![License](https://img.shields.io/badge/license-MIT-2EA043?style=for-the-badge)
 
 </div>
-
----
-
-## GitHub stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sajjad-rabby&show_icons=true&hide_border=true&theme=dark&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sajjad-rabby&show_icons=true&hide_border=true&theme=default&count_private=true" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sajjad-rabby&show_icons=true&hide_border=true" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sajjad-rabby&layout=compact&hide_border=true&theme=dark&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sajjad-rabby&layout=compact&hide_border=true&theme=default&langs_count=8" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sajjad-rabby&layout=compact&hide_border=true" alt="Top languages" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=sajjad-rabby&hide_border=true&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=sajjad-rabby&hide_border=true&theme=default" />
-    <img src="https://streak-stats.demolab.com?user=sajjad-rabby&hide_border=true" alt="GitHub streak" />
-  </picture>
-</p>
 
 ---
 
