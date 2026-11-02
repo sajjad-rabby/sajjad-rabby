@@ -58,14 +58,14 @@ a typed Supabase data layer.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sajjad-rabby&show_icons=true&hide_border=true&theme=dark&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sajjad-rabby&show_icons=true&hide_border=true&theme=default&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=sajjad-rabby&show_icons=true&hide_border=true" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sajjad-rabby&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sajjad-rabby&show_icons=true&hide_border=true&theme=default&count_private=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sajjad-rabby&show_icons=true&hide_border=true" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad-rabby&layout=compact&hide_border=true&theme=dark&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad-rabby&layout=compact&hide_border=true&theme=default&langs_count=8" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajjad-rabby&layout=compact&hide_border=true" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sajjad-rabby&layout=compact&hide_border=true&theme=dark&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sajjad-rabby&layout=compact&hide_border=true&theme=default&langs_count=8" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sajjad-rabby&layout=compact&hide_border=true" alt="Top languages" />
   </picture>
 </p>
 
